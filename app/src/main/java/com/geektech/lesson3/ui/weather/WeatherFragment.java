@@ -71,6 +71,13 @@ public class WeatherFragment extends BaseFragment<FragmentWeatherBinding> {
 
         binding.textTemp.setText(data.getSys().getCountry());
         binding.textHumidityCifry.setText(data.getMain().getHumidity().toString());
+        binding.maxTemp.setText(data.getMain().getTempMax().toString());
+        binding.minTemp.setText(data.getMain().getTempMin().toString());
+        binding.textPressureCifry.setText(data.getMain().getPressure().toString());
+        binding.textSunsetCifry.setText(data.getSys().getSunset().toString());
+        binding.textSunriseCifry.setText(data.getSys().getSunrise().toString());
+        binding.textWindCifry.setText(data.getWind().getSpeed().toString());
+        binding.textCity.setText(data.getName());
     }
 
     @Override

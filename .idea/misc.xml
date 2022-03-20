@@ -3,9 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/GeekTech/Lesson3/app/src/main/res/layout/activity_main.xml" value="0.1337386018237082" />
+        <entry key="..\:/GeekTech/Lesson3/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/GeekTech/Lesson3/app/src/main/res/layout/fragment_detail_city.xml" value="0.15353260869565216" />
-        <entry key="..\:/GeekTech/Lesson3/app/src/main/res/layout/fragment_weather.xml" value="0.4757785467128028" />
+        <entry key="..\:/GeekTech/Lesson3/app/src/main/res/layout/fragment_weather.xml" value="0.264" />
         <entry key="..\:/GeekTech/Lesson3/app/src/main/res/layout/fragment_weather_detail.xml" value="0.1337386018237082" />
       </map>
     </option>
